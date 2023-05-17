@@ -1,8 +1,7 @@
 [
-    {
-      "link": "https://alberocesar.github.io/Chal-_comeiaAcademy/",
-      "image": "../../src/assets/chale_comeia.png",
-      "title": "Card Interativo"
-    }
-  ]
-  
+  {
+    "link": "https://alberocesar.github.io/Chal-_comeiaAcademy/",
+    "image": "../../src/assets/chale_comeia.png",
+    "title": "Card Interativo"
+  }
+]
