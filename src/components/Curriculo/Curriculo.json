@@ -1,0 +1,43 @@
+{
+    "resumo": "Gosto de desafios e sempre estou em busca de novos conhecimentos. Sempre tive o sonho de trabalhar com tecnologia, e hoje estou realizando esse sonho Atualmente comecei a colocar esse sonho em prática, estou estudando programação e desenvolvimento web.",
+  
+    "experienciaAcademica": [
+      {
+        "titulo": " Analise e desenvolvimento de Sistemas na Favip",
+        "dataInicio": "2021",
+        "dataFim": " 2023"
+      },
+  
+      {
+        "titulo": "  Academia Python na Fuctura tecnologia",
+        "dataInicio": "2022",
+        "dataFim": " 2023"
+      },
+  
+      {
+        "titulo": " Comeia Academy",
+        "dataInicio": "2023",
+        "dataFim": " 2023"
+      }
+    ],
+  
+    "experienciaProfissional": [
+      {
+        "titulo": " Desenvolvedor de Software no Comeia",
+        "dataInicio": "2023",
+        "dataFim": " 2023"
+      },
+      {
+        "titulo": " Desenvolvedor de Software no Comeia",
+        "dataInicio": "2023",
+        "dataFim": " 2023"
+      },
+      
+      {
+        "titulo": " Desenvolvedor de Software no Comeia",
+        "dataInicio": "2023",
+        "dataFim": " 2023"
+      }
+    ]
+  }
+  
