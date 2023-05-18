@@ -9,3 +9,7 @@
     font-weight: bold;
     color: #515f69;
 }
+
+.item-portfolio img{
+    width: 200px;
+}
