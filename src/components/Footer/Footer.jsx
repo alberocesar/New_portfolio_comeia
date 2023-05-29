@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 
 function Footer() {
-    return <footer>Desenvolvido na força do odio por Alberto Cesar</footer>
+    return <footer>Desenvolvido por Alberto Cesar Bjus de Luz</footer>
 }
 
 
